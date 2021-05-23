@@ -1,2 +1,0 @@
-# HADDOP
-Haddop data
